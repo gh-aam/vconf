@@ -13,7 +13,7 @@
 10. Type `vim monokai.vim`,
 11. Press `Enter`,
 12. Press `i`,
-13. Paste the [`monokai.vim`](https://github.com/mGH-aam/vConfig/blob/main/monokai.vim) file,
+13. Paste the [`monokai.vim`](https://github.com/m40-aam/vconf/blob/main/monokai.vim) file,
 14. Press `Esc`,
 15. Type `:wq`,
 16. Press `Enter`,
@@ -22,7 +22,7 @@
 19. Type `vim .vimrc`,
 20. Press `Enter`,
 21. Press `i`,
-22. Paste the [`.vimrc`](https://github.com/mGH-aam/vConfig/blob/main/.vimrc) file,
+22. Paste the [`.vimrc`](https://github.com/m40-aam/vconf/blob/main/.vimrc) file,
 23. Press `Esc`,
 24. Type `:wq`, and
 25. Press `Enter`.
